@@ -1,0 +1,34 @@
+  [
+    {
+      "name": "Anvi Verma",
+      "profession": "Student",
+      "hobbies":[
+                  "Dancing",
+                  "Singing",
+                  "Drawing"
+      ]
+
+    },
+    {
+      "name": "Hemant Verma",
+      "profession": "IT Professional",
+      "hobbies":[
+        "Cricket",
+        "Dancing",
+        "Reading Technical Books"
+      ]
+
+    },
+    {
+      "name": "Komal Verma",
+      "profession": "IT Professional",
+      "hobbies":[
+        "Dancing",
+        "Singing",
+        "Cooking"
+      ]
+
+    }
+
+  ]
+
